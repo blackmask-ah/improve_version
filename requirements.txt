@@ -1,5 +1,5 @@
 streamlit
-TTS
-torch
-torchaudio
-numpy<2.0  # Important for compatibility with Coqui TTS
+TTS==0.21.1
+torch==2.0.1
+torchaudio==2.0.2
+numpy<2.0
