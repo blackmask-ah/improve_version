@@ -1,0 +1,5 @@
+streamlit
+TTS
+torch
+torchaudio
+numpy<2.0  # Important for compatibility with Coqui TTS
